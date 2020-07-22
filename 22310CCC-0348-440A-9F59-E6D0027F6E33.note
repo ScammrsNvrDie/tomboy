@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<note version="0.3" xmlns:link="http://beatniksoftware.com/tomboy/link" xmlns:size="http://beatniksoftware.com/tomboy/size" xmlns="http://beatniksoftware.com/tomboy">
+  <title>Reminders 2020-07-22 17:18:17.305</title>
+  <text xml:space="preserve"><note-content version="0.1"><underline>Reminders 2020-07-22 17:18:17.305</underline>
+
+finish git setup
+
+</note-content></text>
+  <last-change-date>2020-07-22T17:18:49.3694830-04:00</last-change-date>
+  <last-metadata-change-date>2020-07-22T17:18:49.3694830-04:00</last-metadata-change-date>
+  <create-date>2020-07-22T17:18:49.3694830-04:00</create-date>
+  <cursor-position>1</cursor-position>
+  <selection-bound-position>1</selection-bound-position>
+  <width>1234</width>
+  <height>994</height>
+  <x>473</x>
+  <y>230</y>
+  <tags>
+    <tag>system:notebook:reminders</tag>
+  </tags>
+  <open-on-startup>False</open-on-startup>
+</note>
